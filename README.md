@@ -6,21 +6,21 @@
 
 ## Instalación
 
-Clona el repositorio:
+1. Clona el repositorio:
     ```bash
     git clone https://github.com/tuusuario/tu-repositorio.git
     ```
-Navega al directorio del proyecto:
+2. Navega al directorio del proyecto:
     ```bash
     cd tu-repositorio
     ```
-Instala las dependencias:
+3. Instala las dependencias:
     ```bash
     npm install
     ```
-Configura tu base de datos MySQL. Asegúrate de tener una base de datos configurada y con las tablas necesarias.
+4. Configura tu base de datos MySQL. Asegúrate de tener una base de datos configurada y con las tablas necesarias.
 
-En la carpeta db.js encontraras la configuracion de la base de datos:
+    En la carpeta db.js encontraras la configuracion de la base de datos:
     ```
     host: 'localhost',
     port: puerto,
@@ -30,7 +30,7 @@ En la carpeta db.js encontraras la configuracion de la base de datos:
     ```
 ## Uso
 
-Inicia el servidor:
+1.Inicia el servidor:
     ```bash
     npm run dev
     ```
