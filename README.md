@@ -30,7 +30,7 @@
     ```
 ## Uso
 
-1.Inicia el servidor:
+1. Inicia el servidor:
     ```bash
     npm run dev
     ```
